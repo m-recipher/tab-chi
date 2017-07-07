@@ -1,4 +1,4 @@
-local sudomsg = 282958812 -- put your id here 
+local sudomsg = 403285144 -- put your id here 
 local function reload_plugins( )
   plugins = {}
   load_plugins()
@@ -219,7 +219,7 @@ local hash = ('bot:pm')
 end
 if matches[1]== "help" and is_sudo(msg) then
 local text =[[
-🍃TTabchiHelp By @LuaError🍃
+
 ---------------------------------
 ♦️Brodcast Option🍃
 🔶!pm [Id] [Text]
@@ -291,7 +291,7 @@ local text =[[
 🔶!myinfo
 دریافت اطلاعات 
 ---------------------------------
-🔷channel : @LuaError 🍃
+
 ]]
 return text
 end
@@ -549,5 +549,4 @@ patterns = {
 run = run,
 pre_process = pre_process
 }
---@LuaError
---@Tele_Sudo
+
