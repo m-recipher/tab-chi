@@ -77,12 +77,6 @@ sudo killall telegram-cli
 sudo tmux new-session -s script "bash steady.sh -t"
 ```
 
-## 📍 باتشکر 📍
-[ITEAM](https://telegram.me/iTeam_ir)
 
-## 🇮🇷 تهیه شده توسط 🇮🇷
-[LuaError](https://telegram.me/LuaError)
 
-# [گروه حل مشکلات](https://t.me/joinchat/AAAAAEHcoewaS5AC4G86EA)
 
-# [سازنده](https://t.me/ThatsAlone)
