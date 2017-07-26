@@ -1,4 +1,4 @@
-local sudomsg = 403285144 -- put your id here 
+local sudomsg = 317927535 -- put your id here 
 local function reload_plugins( )
   plugins = {}
   load_plugins()
